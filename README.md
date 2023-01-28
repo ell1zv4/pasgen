@@ -3,3 +3,5 @@
 
 Simple program to create and save passwords
 
+- Only for linux
+
